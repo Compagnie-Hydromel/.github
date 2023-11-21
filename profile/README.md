@@ -14,7 +14,7 @@
 <hr color="orange">
 
 ## 📌 About us
-One day my friend pierrot ask me for discord bot for a discord server. I say yes and I start to code. After 2 days I finish the bot and I say to myself "Why not make a github organisation for my friend and me ?". And here we are.
+One day my friend Pierrot ask me for discord bot for is new discord server. I say yes and I start to code. After some month on the project, I finish the bot and I say to myself "Why not make a github organisation for my friend and me ?". And here we are.
 
 ## 📌 Our projects
 Compagnie Hydromel is a github organisation for my friend and me. We have a lot of projects like :
@@ -27,6 +27,7 @@ Compagnie Hydromel is a github organisation for my friend and me. We have a lot 
 ## 📌 Contact
 <div align="center">
     <a href="https://discord.com/users/386200134628671492" target="_blank"><img src="https://img.shields.io/badge/ethann69-%231877F2.svg?&style=round-square&logo=discord&logoColor=white" alt="ethann69"></a>
+    <a href="https://github.com/orgs/Compagnie-Hydromel/discussions" target="_blank"><img src="https://img.shields.io/badge/github discussions-%231877F2.svg?&style=round-square&logo=github&logoColor=white&color=grey" alt="Github discussions"></a>
 </div>
 <br><br><br><br><br><br>
 <div align="center">
