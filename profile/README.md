@@ -1,5 +1,7 @@
 <div id="header" align="center">
-  <img src="https://github.com/Compagnie-Hydromel/.github/blob/main/profile/img/logo.gif?raw=true" width="150"/>
+    <a href="https://youtube.com/watch?v=dQw4w9WgXcQ">
+        <img src="https://github.com/Compagnie-Hydromel/.github/blob/main/profile/img/logo.gif?raw=true" width="150"/>
+    </a>
 </div>
 <hr style="width:50%">
 <div align="center">
