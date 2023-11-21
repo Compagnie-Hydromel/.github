@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="img/logo.gif" width="150"/>
+  <img src="https://github.com/Compagnie-Hydromel/.github/blob/main/profile/img/logo.gif?raw=true" width="150"/>
 </div>
 <hr style="width:50%">
 <div align="center">
